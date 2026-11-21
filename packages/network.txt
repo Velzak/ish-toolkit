@@ -1,0 +1,9 @@
+# Diagnostics and connectivity tools for networks you own or have permission to test
+bind-tools
+iproute2
+iputils
+mtr
+traceroute
+whois
+netcat-openbsd
+socat
