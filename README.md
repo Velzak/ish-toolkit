@@ -16,6 +16,12 @@ cd ish-toolkit
 sh install.sh
 ```
 
+Run the system diagnostics any time with:
+
+```sh
+sh doctor.sh
+```
+
 Or download the repository ZIP from GitHub, extract it in iSH's Files area, then run `sh install.sh` from that directory.
 
 ## Install categories
@@ -57,6 +63,7 @@ The package lists are curated candidates, not a promise that every package exist
 - `install.sh` — category menu or command-line installer
 - `update.sh` — refresh package indexes and upgrade installed packages
 - `check.sh` — show Alpine version and which listed packages are installed
+- `doctor.sh` — read-only system report covering platform, storage, commands, package status, and network configuration
 
 ## iSH limitations
 
