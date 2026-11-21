@@ -1,0 +1,24 @@
+# Programming languages and build tools
+git
+git-lfs
+make
+cmake
+ninja
+pkgconf
+gcc
+g++
+musl-dev
+binutils
+patch
+diffutils
+subversion
+mercurial
+openssh-client
+openssh-keygen
+nodejs
+npm
+ruby
+perl
+php
+lua
+sqlite
