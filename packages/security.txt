@@ -1,0 +1,8 @@
+# Defensive security, certificates, hashing, and file integrity
+openssl
+gnupg
+age
+argon2
+john
+lynis
+rhash
