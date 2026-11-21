@@ -1,0 +1,25 @@
+# Shells and everyday command-line utilities
+bash
+zsh
+fish
+coreutils
+findutils
+grep
+sed
+gawk
+less
+file
+tree
+which
+procps
+psmisc
+util-linux
+busybox-extras
+man
+mandoc
+ncurses
+readline
+curl
+wget
+ca-certificates
+tzdata
