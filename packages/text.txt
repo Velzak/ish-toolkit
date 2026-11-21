@@ -1,0 +1,7 @@
+# Text, JSON, and data processing
+jq
+yq
+dos2unix
+iconv
+enca
+pandoc
