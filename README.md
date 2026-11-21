@@ -44,7 +44,7 @@ sh install.sh all
 
 The `all` option asks for confirmation first. Package installs are attempted one at a time so one unavailable package does not stop the rest. Review `install.log` for details.
 
-## Included categories
+The interactive installer includes a colored menu when supported, package-by-package progress, install summaries, and a shortcut to run the system doctor. Set `NO_COLOR=1` to disable color.\n\n## Included categories
 
 | Category | What's inside |
 |---|---|
